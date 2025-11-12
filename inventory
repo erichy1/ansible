@@ -1,0 +1,4 @@
+
+srv01 ansible_host=192.168.52.8
+srv02 ansible_host=192.168.52.9
+ansible01 ansible_host=192.168.56.101
